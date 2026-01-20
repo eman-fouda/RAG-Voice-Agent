@@ -14,4 +14,10 @@ tqdm
 sentence-transformers    
 torch  
 tiktoken
-transformers        
+transformers 
+uvicorn
+fastapi
+langchain-huggingface 
+pypdf
+npm
+
